@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_todos_bloc/blocs/features/todos/domain/entities/todo.dart';
+import 'package:flutter_todos_bloc/features/todos/domain/entities/todo.dart';
 
 abstract class TodosState extends Equatable {
   const TodosState();
